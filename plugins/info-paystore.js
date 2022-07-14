@@ -5,13 +5,13 @@ let sh = '5'
 let sn = '10'
 let ss = '25'
 let sp = '40'
-let sv = '120'
+let sv = '50'
 //premium
 let ph = '5'
 let pn = '15'
-let pp = '45'
-let pv = '65'
-let ppm = '70'
+let pp = '35'
+let pv = '55'
+let ppm = '60'
 let info = `
 *${htki} sᴇᴡᴀ ${htka}*
 ┏⫹⫺ *ʜᴇᴍᴀᴛ* 
@@ -21,10 +21,10 @@ let info = `
 ┗$ ${sn}k/grup (1 bulan)
 
 ┏⫹⫺ *sᴛᴀɴᴅᴀʀ* 
-┗$ ${ss}k/grup (2 bulan)
+┗$ ${ss}k/grup (3 bulan)
 
 ┏⫹⫺ *ᴘʀᴏ* 
-┗$ ${sp}k/grup (3 bulan)
+┗$ ${sp}k/grup (5 bulan)
 
 ┏⫹⫺ *ᴘᴇʀᴍᴀɴᴇɴ* 
 ┗$ ${sv}k/grup (Permanen)
@@ -44,12 +44,16 @@ let info = `
 ┏⫹⫺ *ᴘʀᴏ* 
 ┗$ ${pv}k (5 bulan)                                            
 
-*📦 Kalau mau dapat discon cek website TokoBot*
-Link: https://toko.ly/TokoBot
+┏⫹⫺ *ᴠɪᴘ* 
+┗$ ${ppm}k (Permanen)
 
-–––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
+*⫹⫺ PAYMENT:*
+*GoPay:* [${pgopay}]
+*Dana:* [${pdana}]
+
+–––––– *🐾 ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
 🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja.. max tawar 5k
+💬: Mau tawar menawar? boleh, silahkan chat owner aja.. max tawar 3,5k
 
 🗣️: Scam ga nih kak?
 💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
@@ -62,8 +66,8 @@ const sections = [
 	rows: [
 	    {title: "𝗛𝗘𝗠𝗔𝗧", rowId: '.pay', description: '𝗣𝗿𝗶𝗰𝗲: ' + sh + 'k (1 minggu)' },
 	    {title: "𝗡𝗢𝗥𝗠𝗔𝗟", rowId: '.pay', description: '𝗣𝗿𝗶𝗰𝗲: ' + sn + 'k (1 bulan)' },
-	{title: "𝗦𝗧𝗔𝗡𝗗𝗔𝗥", rowId: '.pay', description: '𝗣𝗿𝗶𝗰𝗲: ' + ss + 'k (2 bulan)' },
-	{title: "𝗣𝗥𝗢", rowId: '.pay', description: '𝗣𝗿𝗶𝗰𝗲: ' + sp + 'k (3 bulan)' },
+	{title: "𝗦𝗧𝗔𝗡𝗗𝗔𝗥", rowId: '.pay', description: '𝗣𝗿𝗶𝗰𝗲: ' + ss + 'k (3 bulan)' },
+	{title: "𝗣𝗥𝗢", rowId: '.pay', description: '𝗣𝗿𝗶𝗰𝗲: ' + sp + 'k (5 bulan)' },
 	{title: "🔖 𝗩𝗜𝗣", rowId: '.pay', description: '𝗣𝗿𝗶𝗰𝗲: ' + sv + 'k (Permanen)' },
 	]
     }, {
