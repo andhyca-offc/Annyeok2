@@ -45,22 +45,22 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/Fangzbotz2007'
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM'
-global.sdc = 'https://s.id/Fangzganz'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/andhycarsrofficial'
+global.sgh = 'https://github.com/andhyca-offc'
+global.sgc = 'https://chat.whatsapp.com/DTtOcmrCAkKFrVZJD6jb6M'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088215689772'
-global.povo = '088215689772'
-global.pgopay = '088215689772'
-global.ppulsa = '088215689772'
-global.ppulsa2 = '0895394988123'
-global.psaweria = 'https://saweria.co/FangzBot'
+global.pdana = '085872761910'
+global.povo = '-'
+global.pgopay = '085872761910'
+global.ppulsa = '085872761910'
+global.ppulsa2 = '085872761910'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
+global.nomorbot = '62895330584590'
 global.nomorown = '6288215689772'
 global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
 global.nameown = 'Fangz Ganz'
